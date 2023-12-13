@@ -8,3 +8,6 @@ console.log('today i relax')
 console.log('Today I will go to the ice rink')
 console.log('Сегодня я Купил себе новый телефон!')
 console.log('Сегодня я вернулся на тренировки по самбо')
+console.log(
+  'Сегодня у меня был очень загруженный день. Обучал порядка 150 людей'
+)
